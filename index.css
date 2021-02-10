@@ -1,20 +1,20 @@
-a {
+a #plan{
   text-decoration: none;
   letter-spacing: 3px;
-  color: blueviolet;
+  color: white;
   font-size: 2rem;
 }
 
 header nav{
-    position: fixed;
+    display: inline-block;
+    justify-content: space-evenly;
+    align-items: center;
+    padding:8px;
     width: 100%;
     top:0;
     background-color: orange;
 }
-
-.links{
-    width:100%;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+.headerPhoto {
+    height:2vh;
+    border-radius: 50%;
 }
