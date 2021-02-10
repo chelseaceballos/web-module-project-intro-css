@@ -1,27 +1,6 @@
-nav {
-    list-style-type: none;
-    margin:0;
-    padding: 0;
-}
-
-a:link a:visited{
-    display: block;
-    width: 120px;
-    background-color: yellow;
-    color: blue;
-    text-decoration: none;
+nav{
     text-align: center;
-    font-weight: bold;
-    text-transform: uppercase;
-    padding: 5px;
-}
-a{
-    display: inline;
-}
-a:hover, a:active {
-    background-color: green;
-}
-
-a.plan {
-    padding: 100px;
+    border-style: solid black 20px;
+    color: black;
+    
 }
