@@ -75,6 +75,7 @@ nav a{
   background-size:cover;
   background-repeat:no-repeat;
   background-attachment:fixed;
+  
 }
 
 footer > nav > a{
@@ -137,6 +138,8 @@ header > nav > a{
     display: inline-block;
     width:25%;
     margin 0 5%;
+    float:left;
+}
 
 /* .box1{
     display:inline;
