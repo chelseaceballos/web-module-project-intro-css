@@ -14,8 +14,31 @@ body{
 h1 {
     font-family: 'Chelsea Market', cursive;
     font-size: 60px;
+    text-align: center;
 }
 
 nav a{
     margin:0 auto;
+}
+
+/*plan your visit  color #FF764E*/
+
+.plan {
+    background-color: #FF764E;
+    color:white;
+    padding:.6rem;
+    border-radius: 15%;
+}
+
+.get {
+    background-color:#FFCD69;
+    color:white;
+    padding:.6rem;
+    border-radius: 15%;
+}
+.learn {
+    background-color:#5ED3EB;
+    color:white;
+    padding:.6rem;
+    border-radius: 15%;
 }
