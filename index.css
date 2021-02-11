@@ -16,6 +16,8 @@ h1 {
     font-family: 'Chelsea Market', cursive;
     font-size: 60px;
     text-align: center;
+    color: black;
+    margin: 5% 0;
 }
 
 nav a{
@@ -28,7 +30,7 @@ nav a{
     background-color: #FF764E;
     color:white;
     padding:.6rem;
-    border-radius: 15%;
+    border-radius: 25%;
 }
 
 .get {
@@ -67,6 +69,13 @@ footer > nav > a{
     padding: 2% 0;
     text-align: center;
     
+}
+
+.plan nav {
+    display: block;
+    width:25px;
+    height: 25px;
+    border-radius: 25px;
 }
 
 header > nav > a{
