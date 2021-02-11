@@ -78,6 +78,7 @@ footer > nav > a{
     padding: 2% 0;
     text-align: center;
     border:0%;
+   
 }
 
 .plan nav {
@@ -94,7 +95,20 @@ header > nav > a{
     margin:0%;
     padding: 2% 0;
     text-align: center;
+}
+
+.boxes {
+    text-align: center;
+}
+
+.boxes p{
+    border: .2rem solid black;
     
+}
+
+footer div{
+    width:90%;
+    margin:4% 0;
 }
 
 /* .box1{
@@ -120,3 +134,4 @@ titlepic{
     width:25%;
     display:inline-block;
 }*/
+ 
