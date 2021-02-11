@@ -5,8 +5,9 @@ html{
 
 body{
     font-size:1.6rem;
-    line-height:1.5;
+    line-height:1.5; 
 }
+
 *{
     box-sizing: border-box;
     max-width: 100%;
@@ -41,4 +42,9 @@ nav a{
     color:white;
     padding:.6rem;
     border-radius: 15%;
+}
+
+.information{
+    background-color: #DDB9A3;
+    padding: 10%;
 }
