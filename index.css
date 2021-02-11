@@ -1,0 +1,20 @@
+html{
+    font-size:62.5%;
+}
+
+body{
+    font-size:1.6rem;
+    line-height:1.5;
+}
+*{
+    box-sizing: border-box;
+    max-width: 100%;
+}
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 60px;
+}
+
+nav a{
+    margin:0 auto;
+}
